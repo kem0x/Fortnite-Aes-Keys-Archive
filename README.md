@@ -82,7 +82,6 @@
 
 | Build Version | PAK | Guid | Key | Note(s) | 
 | ---- | ---------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | 
-
 | 7.10 | pakchunk1009 | ? | dc21c89e3f897cbb2989508d0d8fc64d9e0f9f9da7585780e2a608d1226fd9d3 | Crackabella
 | 7.10 | pakchunk1014 | ? | 73026039086caec71d8857cb1f34bd5ae76713d981307fc2fd20325fcd41d9f3 | Red Nosed Ranger |
 | 7.10 | pakchunk10?? | ? | 648a1c6bd80d48c965daedf39a612c305480a76a539acbd620f5b0cf66f416c1 | DJ Bop Set |
@@ -106,6 +105,9 @@
 | 9.20 | pakchunk10?? | ? | 29512b6cc5ec42ac7b771ad9a7902b6b8395940d7ba5cdbd136499945362a4f5 | Raging Storm Set |
 | 9.20 | pakchunk1006 | ? | b4badbe7abd38e7dee89921184753e458ca09a2acbcc6825984748e03a9f2b83 | Monster Eye |
 | 9.21 | pakchunk10?? | ? | ceab4c18ac47e3e61d731fb598739be4320c63172da66da72aa5e9f1ce611ffd | Synapse Set |
+| 9.30 | pakchunk1015 | ? | FE1254F5223121EC09EED6A2980AC0C136DBB861BFE131EB2AF30495C4CCCC8D | Sizzlin' Emote |
+| 9.30 | pakchunk1018 | ? | A16DC69159486FCBA2365D02CEAAF05597867E712E8E9D8EDCEDED9F0DB314EB | Hypermelon Wrap |
+| 9.30 | pakchunk1026 | ? | A2EB2577444891EBBD2FD6930F0AFD68D088B7EC0EC01ECAC463D8F414DF43BB | Robot Arms |
 | 9.40 | pakchunk1004 | ? | 024DD338CD22D0CABF298C5DED20E54AE4BBA39E5449A7FEBAB2FA5AA9E66A56 | Monster vs Robot Event |
 | 10.10 | pakchunk1004 | ? | 301A3F0CEF262DE6CCAAE64F0A0784FC58147493970122958C82751FE2043DA7 | Major Lazer |
 | 10.10 | pakchunk10?? | ? | 8b33cf80f22faf17c15cf688fcb2733b9971399b738ce5d0241ba4f643dd29ed | Star Walker Set |
