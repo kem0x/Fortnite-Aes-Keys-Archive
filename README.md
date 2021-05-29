@@ -131,4 +131,6 @@
 - FunGames (BenBot)
 - Kemo (me)
 - sizzy
+- Lucas7Yoshi
+- VastBlast
 - JunctionNinja
