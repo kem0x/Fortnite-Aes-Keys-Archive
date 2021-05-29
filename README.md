@@ -1,7 +1,7 @@
 # Fortnite AES Keys Archive
 
 ## Main AES Keys
-| Build version           | Key | 
+| Build Version           | Key | 
 | ----------------------- | ---------------------------------------------------------------- |
 | 3.30 | ADBB45488E8DE69437AD4F31D3569B0F710D2092799BFB1CE21D5CF9744097C3
 | 3.40 | 7129D5E578F0DC3821E3CD704F01E511F9A60340CF5B4C850F3B0B6B5E80D0B9
@@ -80,7 +80,7 @@
 
 ## Optional Paks
 
-| Version | PAK | Guid | Key | Note(s) | 
+| Build Version | PAK | Guid | Key | Note(s) | 
 | ---- | ---------------------------------------------------------------- | ---------------- | 
 | 11.30 | pakchunk1000-WindowsClient | ? | 146E7972681D067B33B2BE694B46810B8E0D565ECEC88F80B8E5F100BC9A34A0 | Star Wars Event |
 | 11.30 | pakchunk1020-WindowsClient | ? | E688FC078479DE994FC5189CB4C37A42443BE350A26CC6E6CD1258203210E623 | Star Wars Event |
