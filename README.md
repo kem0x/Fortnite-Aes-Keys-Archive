@@ -92,3 +92,4 @@
 - 0x41414141
 - FunGames (BenBot)
 - Kemo (me)
+- sizzy
