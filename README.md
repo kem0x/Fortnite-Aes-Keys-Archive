@@ -82,13 +82,22 @@
 
 | Build Version | PAK | Guid | Key | Note(s) | 
 | ---- | ---------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | 
-| 7.10 | pakchunk1009 | ? | dc21c89e3f897cbb2989508d0d8fc64d9e0f9f9da7585780e2a608d1226fd9d3 | Crackabella
+| 7.10 | pakchunk1009 | ? | dc21c89e3f897cbb2989508d0d8fc64d9e0f9f9da7585780e2a608d1226fd9d3 | Crackabella |
 | 7.10 | pakchunk1014 | ? | 73026039086caec71d8857cb1f34bd5ae76713d981307fc2fd20325fcd41d9f3 | Red Nosed Ranger |
 | 7.10 | pakchunk10?? | ? | 648a1c6bd80d48c965daedf39a612c305480a76a539acbd620f5b0cf66f416c1 | DJ Bop Set |
+| 7.10 | pakchunk10?? | ? | c18cc89f36292f9201e9d37eac2a3ad7de8a8061a8dc4feb35e39fecf6a2cf3e | Grimbles |
+| 7.10 | pakchunk10?? | ? | be2db196eb94c3ea458ffb6aa9fbe1edc4bd427afc8103c4197d081f28d9569e | Grimbles Backbling | 
+| 7.10 | pakchunk1007 | ? | 10e7dbfe0d2165d3217796e260e651ebd07f9aa3d4ed7fac81042ba76810fecd | Eternal Struggle Set |
 | 7.10 | pakchunk1004 | ? | a808b8f6650ab01d9d6df6ed2560dfdf23b60df452b40f8477d5e00e30bc65ac | Lace Skin and Set |
-| 7.40 | pakchunk1006 | ? | b9162e973436cdd186f548ac430db033d38e33ff49b12585c05b7977fde89278 | Brite Blimp Glider | 
 | 7.30 | pakchunk1008 | ? | 663ce8f8268b3660b2829973428db050be0b4f7dc31222faa99584d91d0460c8 | Marshmello Event Visuals |
+| 7.30 | pakchunk1002 | ? | a665ce7ddf8d11770b8595f962a0cb8c7bbcff2cd9a28e1d58f70233c71c5e82 | Marshmello Skin | 
+| 7.30 | pakchunk1001 | ? | 35df2f858a76f7a0be0b44ea4881b1bb49c160e146439c4134ae4c1631d2f080 | Snow Clan Set | 
+| 7.40 | pakchunk1006 | ? | b9162e973436cdd186f548ac430db033d38e33ff49b12585c05b7977fde89278 | Brite Blimp Glider | 
+| 7.40 | pakchunk1004 | ? | 6211f2c4803e46edf7af7a538625aa28d61dbc36cbd39c974b129aad1b8c4b1c | Deep Sea Set
+| 8.00 | pakchunk1001 | ? | aba9b5c41e3e9829972f783b7911b29033ba64aad74bc33b9bc4aa6ea20ace42 | Hot Air Set |
+| 8.10 | pakchunk10?? | ? | 223cea9e71e367eafa582e077bf25ac0ec91ecbc5e31b9b9f3cd1c0c60ebd9e5 | Lucky Rider and Set | 
 | 8.11 | pakchunk1002 | ? | a7d44174f9a4e76f79a514a0d3e61b7f0cbf92a63a1c1622244024bf2eb9d0ee | Mechanimal Set |
+| 8.11 | pakchunk1000 | ? | 0x05ed8e965da9d2a2179a224c8b863fc3278f63e59e7cc989c82ce3823af39217 | Diabolical Set |
 | 8.20 | pakchunk10?? | ? | cbd2600fcd76228e266da2798b9df74ece5249fc97686338272a229a33fe8b83 | Three Strikes Set | 
 | 8.30 | pakchunk1000 | ? | ab35afdb3b9b0d24aba53b77b4a73866c45ea91dd004a8e1535706cd57bb287e | Teed Off Set |
 | 8.40 | pakchunk1001 | ? | 7b28c29bd39c1504af551541662ccd57217ef246fd3a5345aef0f2f1dd500dfa | Hopper Set |
@@ -100,6 +109,8 @@
 | 8.40 | pakchunk10?? | ? | c5551137d38180bb5bc8ad194786ea320b19a4bfd22639485dfd56184a5f77a2 | Globetrotter Glider |
 | 8.50 | pakchunk10?? | ? | bb7857cb28c579c530714408ba088e8eac122619e1cbf725baf2c1c25521482e | Cole Outfit |
 | 8.50 | pakchunk10?? | ? | b21c7f50f7763c9a4666da5d7519a84bb468b1b10ed0c96c68d6fef5a69047d8 | Rockbreaker Pickaxe | 
+| 8.50 | pakchunk10?? | ? | 1f782d7641334f70e4f2f9304d3644f68503a09132eaf99f423d630e8e39de06 | Arcana Glider | 
+| 8.50 | pakchunk10?? | ? | 95ce3b03f55a85a05624b418e15d58ca3cc93c8e71544ac89c36aa7703e3bf68 | Lunar Light Backbling |
 | 9.10 | pakchunk10?? | ? | 2773777141f7334477bb2ce4134a952bf4a8bb10bf5fa544b3072859be9588bf | Doggo Skin Body + Set |
 | 9.20 | pakchunk10?? | ? | baf52a6f92eec11156427038a02456dcb35da2b61c1ad3a627c3ef05e0b004a8 | Stranger Things Set |
 | 9.20 | pakchunk10?? | ? | 29512b6cc5ec42ac7b771ad9a7902b6b8395940d7ba5cdbd136499945362a4f5 | Raging Storm Set |
