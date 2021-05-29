@@ -81,7 +81,7 @@
 ## Optional Paks
 
 | Build Version | PAK | Guid | Key | Note(s) | 
-| ---- | ---------------------------------------------------------------- | ---------------- | 
+| ---- | ---------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | 
 | 11.30 | pakchunk1000-WindowsClient | ? | 146E7972681D067B33B2BE694B46810B8E0D565ECEC88F80B8E5F100BC9A34A0 | Star Wars Event |
 | 11.30 | pakchunk1020-WindowsClient | ? | E688FC078479DE994FC5189CB4C37A42443BE350A26CC6E6CD1258203210E623 | Star Wars Event |
 | 11.30 | pakchunk1018-WindowsClient | ? | BDEAFC074E884B4BA9EED358CB4DF39210A5F82AD39777338265CF61838D70CF | Star Wars Event |
