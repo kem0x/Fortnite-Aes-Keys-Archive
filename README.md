@@ -1,8 +1,10 @@
 # Fortnite AES Keys Archive
 
 ## Main AES Keys
-| Build Version           | Key | 
-| ----------------------- | ---------------------------------------------------------------- |
+| Build Version | Key | 
+| ---- | ---------------------------------------------------------------- |
+| 2.4.2| 2CCDFD22AD74FBFEE693A81AC11ACE57E6D10D0B8AC5FA90E793A130BC540ED4
+| 3.20 | 2CCDFD22AD74FBFEE693A81AC11ACE57E6D10D0B8AC5FA90E793A130BC540ED4
 | 3.30 | ADBB45488E8DE69437AD4F31D3569B0F710D2092799BFB1CE21D5CF9744097C3
 | 3.40 | 7129D5E578F0DC3821E3CD704F01E511F9A60340CF5B4C850F3B0B6B5E80D0B9
 | 3.50 | A3278BA7DDD751A75456415A36C3559138E99134D08958C44C2FD29E4BBF342B
@@ -81,6 +83,8 @@
 
 ## Optional Paks
 
+? - missing info (for now)
+
 | Build Version | PAK | Guid | Key | Note(s) | 
 | ---- | ---------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | 
 | 7.10 | pakchunk1009 | ? | dc21c89e3f897cbb2989508d0d8fc64d9e0f9f9da7585780e2a608d1226fd9d3 | Crackabella |
@@ -133,8 +137,6 @@
 | 12.61 | pakchunk1001 | F51C8301B1C9BE9D4C4F48ED2C0FE067 | F8CB203531F8705D4CAF89A335565582C7F71818234A3627DB24599F67C4EF40 | The Device (Doomsday)
 | 14.60 | pakchunk1005 | C60475E046D0F0FBCFE6DE6F9E040E0E | 59CE88CD6BAA9E6EC41EA712C75E22E8AC17C25E3E3E642AD7CD0448C751FB4F | Devourer Of Worlds Event
 
-? - missing info (for now)
-
 ## Credits
 
 - Sudo_Blenux's Pastebin
@@ -142,7 +144,8 @@
 - 0x41414141
 - FunGames (BenBot)
 - Kemo (me)
-- sizzy
+- Sizzy
 - Lucas7Yoshi
 - VastBlast
 - JunctionNinja
+- Kian738
