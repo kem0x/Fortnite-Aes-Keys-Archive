@@ -83,13 +83,57 @@
 
 | Build Version | PAK | Guid | Key | Note(s) | 
 | ---- | ---------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | 
-| 11.30 | pakchunk1000-WindowsClient | ? | 146E7972681D067B33B2BE694B46810B8E0D565ECEC88F80B8E5F100BC9A34A0 | Star Wars Event |
-| 11.30 | pakchunk1020-WindowsClient | ? | E688FC078479DE994FC5189CB4C37A42443BE350A26CC6E6CD1258203210E623 | Star Wars Event |
-| 11.30 | pakchunk1018-WindowsClient | ? | BDEAFC074E884B4BA9EED358CB4DF39210A5F82AD39777338265CF61838D70CF | Star Wars Event |
-| 11.30 | pakchunk1003-WindowsClient | ? | 08C25C97243523D898F9590389A8E11B1C584266461EB4C094497FC2D953FA99 | Star Wars Event |
-| 14.60 | pakchunk1005-WindowsClient | C60475E046D0F0FBCFE6DE6F9E040E0E | 59CE88CD6BAA9E6EC41EA712C75E22E8AC17C25E3E3E642AD7CD0448C751FB4F | Devourer Of Worlds Event
-| 12.61 | pakchunk1001-WindowsClient |  F51C8301B1C9BE9D4C4F48ED2C0FE067 | F8CB203531F8705D4CAF89A335565582C7F71818234A3627DB24599F67C4EF40 | The Device (Doomsday)
-| 12.60 | pakchunk1000-WindowsClient | 8734362B2A2A8B0FBC9EDE6160627E1D | F19B282DE4DE7B3C63A08C6735F52B35FEB55DFA8C10A7E7C936F7BB8A3F5FA8 | Astronomical Event
+| 7.10 | pakchunk1009 | ? | dc21c89e3f897cbb2989508d0d8fc64d9e0f9f9da7585780e2a608d1226fd9d3 | Crackabella |
+| 7.10 | pakchunk1014 | ? | 73026039086caec71d8857cb1f34bd5ae76713d981307fc2fd20325fcd41d9f3 | Red Nosed Ranger |
+| 7.10 | pakchunk10?? | ? | 648a1c6bd80d48c965daedf39a612c305480a76a539acbd620f5b0cf66f416c1 | DJ Bop Set |
+| 7.10 | pakchunk10?? | ? | c18cc89f36292f9201e9d37eac2a3ad7de8a8061a8dc4feb35e39fecf6a2cf3e | Grimbles |
+| 7.10 | pakchunk10?? | ? | be2db196eb94c3ea458ffb6aa9fbe1edc4bd427afc8103c4197d081f28d9569e | Grimbles Backbling | 
+| 7.10 | pakchunk1007 | ? | 10e7dbfe0d2165d3217796e260e651ebd07f9aa3d4ed7fac81042ba76810fecd | Eternal Struggle Set |
+| 7.10 | pakchunk1004 | ? | a808b8f6650ab01d9d6df6ed2560dfdf23b60df452b40f8477d5e00e30bc65ac | Lace Skin and Set |
+| 7.30 | pakchunk1008 | ? | 663ce8f8268b3660b2829973428db050be0b4f7dc31222faa99584d91d0460c8 | Marshmello Event Visuals |
+| 7.30 | pakchunk1002 | ? | a665ce7ddf8d11770b8595f962a0cb8c7bbcff2cd9a28e1d58f70233c71c5e82 | Marshmello Skin | 
+| 7.30 | pakchunk1001 | ? | 35df2f858a76f7a0be0b44ea4881b1bb49c160e146439c4134ae4c1631d2f080 | Snow Clan Set | 
+| 7.40 | pakchunk1006 | ? | b9162e973436cdd186f548ac430db033d38e33ff49b12585c05b7977fde89278 | Brite Blimp Glider | 
+| 7.40 | pakchunk1004 | ? | 6211f2c4803e46edf7af7a538625aa28d61dbc36cbd39c974b129aad1b8c4b1c | Deep Sea Set
+| 8.00 | pakchunk1001 | ? | aba9b5c41e3e9829972f783b7911b29033ba64aad74bc33b9bc4aa6ea20ace42 | Hot Air Set |
+| 8.10 | pakchunk10?? | ? | 223cea9e71e367eafa582e077bf25ac0ec91ecbc5e31b9b9f3cd1c0c60ebd9e5 | Lucky Rider and Set | 
+| 8.11 | pakchunk1002 | ? | a7d44174f9a4e76f79a514a0d3e61b7f0cbf92a63a1c1622244024bf2eb9d0ee | Mechanimal Set |
+| 8.11 | pakchunk1000 | ? | 0x05ed8e965da9d2a2179a224c8b863fc3278f63e59e7cc989c82ce3823af39217 | Diabolical Set |
+| 8.20 | pakchunk10?? | ? | cbd2600fcd76228e266da2798b9df74ece5249fc97686338272a229a33fe8b83 | Three Strikes Set | 
+| 8.30 | pakchunk1000 | ? | ab35afdb3b9b0d24aba53b77b4a73866c45ea91dd004a8e1535706cd57bb287e | Teed Off Set |
+| 8.40 | pakchunk1001 | ? | 7b28c29bd39c1504af551541662ccd57217ef246fd3a5345aef0f2f1dd500dfa | Hopper Set |
+| 8.40 | pakchunk1004 | ? | aa37c24f7f455678848cf8fe0af66ee50cfc5c71ed7671fc902b15dcfd4e689c | Nitehare Set and Dino Wraps |
+| 8.40 | pakchunk1011 | ? | 396228a5b0787f16a86e87cf23d945f619fa04f1bd3552e9e0e77ad6e429a5fa | Pastel and Set |
+| 8.40 | pakchunk10?? | ? | ad31b2f5ab799137d0b6ef04c15ad48a17f3b8df2f9053e5dd73721afa9b657e | Splode Skin Set |
+| 8.40 | pakchunk10?? | ? | 9f38813d04dfb849782112baa4e6a8bd0a6a402ea7b0c419153c7e0c483adaae | Bunnyhop Emote |
+| 8.40 | pakchunk10?? | ? | 25dee744bc7f168a270367548ed6ef2559379c9a0dabd2d379d937bb811d152f | Supersonic Set | 
+| 8.40 | pakchunk10?? | ? | c5551137d38180bb5bc8ad194786ea320b19a4bfd22639485dfd56184a5f77a2 | Globetrotter Glider |
+| 8.50 | pakchunk10?? | ? | bb7857cb28c579c530714408ba088e8eac122619e1cbf725baf2c1c25521482e | Cole Outfit |
+| 8.50 | pakchunk10?? | ? | b21c7f50f7763c9a4666da5d7519a84bb468b1b10ed0c96c68d6fef5a69047d8 | Rockbreaker Pickaxe | 
+| 8.50 | pakchunk10?? | ? | 1f782d7641334f70e4f2f9304d3644f68503a09132eaf99f423d630e8e39de06 | Arcana Glider | 
+| 8.50 | pakchunk10?? | ? | 95ce3b03f55a85a05624b418e15d58ca3cc93c8e71544ac89c36aa7703e3bf68 | Lunar Light Backbling |
+| 9.10 | pakchunk10?? | ? | 2773777141f7334477bb2ce4134a952bf4a8bb10bf5fa544b3072859be9588bf | Doggo Skin Body + Set |
+| 9.20 | pakchunk10?? | ? | baf52a6f92eec11156427038a02456dcb35da2b61c1ad3a627c3ef05e0b004a8 | Stranger Things Set |
+| 9.20 | pakchunk10?? | ? | 29512b6cc5ec42ac7b771ad9a7902b6b8395940d7ba5cdbd136499945362a4f5 | Raging Storm Set |
+| 9.20 | pakchunk1006 | ? | b4badbe7abd38e7dee89921184753e458ca09a2acbcc6825984748e03a9f2b83 | Monster Eye |
+| 9.21 | pakchunk10?? | ? | ceab4c18ac47e3e61d731fb598739be4320c63172da66da72aa5e9f1ce611ffd | Synapse Set |
+| 9.30 | pakchunk1015 | ? | FE1254F5223121EC09EED6A2980AC0C136DBB861BFE131EB2AF30495C4CCCC8D | Sizzlin' Emote |
+| 9.30 | pakchunk1018 | ? | A16DC69159486FCBA2365D02CEAAF05597867E712E8E9D8EDCEDED9F0DB314EB | Hypermelon Wrap |
+| 9.30 | pakchunk1026 | ? | A2EB2577444891EBBD2FD6930F0AFD68D088B7EC0EC01ECAC463D8F414DF43BB | Robot Arms |
+| 9.40 | pakchunk1004 | ? | 024DD338CD22D0CABF298C5DED20E54AE4BBA39E5449A7FEBAB2FA5AA9E66A56 | Monster vs Robot Event |
+| 10.10 | pakchunk1004 | ? | 301A3F0CEF262DE6CCAAE64F0A0784FC58147493970122958C82751FE2043DA7 | Major Lazer |
+| 10.10 | pakchunk10?? | ? | 8b33cf80f22faf17c15cf688fcb2733b9971399b738ce5d0241ba4f643dd29ed | Star Walker Set |
+| 10.10 | pakchunk10?? | ? | 6591db895b1b5eab8b96bb4d547b6bc8b4b755dd44828f3ff2d943a5e50281f7 | Some of the Leftovers Set
+| 10.41 | pakchunk1003 | ? | 90B99874B8BE8CE06CDA4F81FD4C6B09C3D276FB8D61385AD3197DF92BD4CC95 | End Event |
+| 11.30 | pakchunk1000 | ? | 146E7972681D067B33B2BE694B46810B8E0D565ECEC88F80B8E5F100BC9A34A0 | Star Wars Event
+| 11.30 | pakchunk1020 | ? | E688FC078479DE994FC5189CB4C37A42443BE350A26CC6E6CD1258203210E623 | Star Wars Event
+| 11.30 | pakchunk1018 | ? | BDEAFC074E884B4BA9EED358CB4DF39210A5F82AD39777338265CF61838D70CF | Star Wars Event
+| 11.30 | pakchunk1003 | ? | 08C25C97243523D898F9590389A8E11B1C584266461EB4C094497FC2D953FA99 | Star Wars Event
+| 12.41 | pakchunk1000 | 8734362B2A2A8B0FBC9EDE6160627E1D | F19B282DE4DE7B3C63A08C6735F52B35FEB55DFA8C10A7E7C936F7BB8A3F5FA8 | Astronomical Event
+| 12.61 | pakchunk1001 | F51C8301B1C9BE9D4C4F48ED2C0FE067 | F8CB203531F8705D4CAF89A335565582C7F71818234A3627DB24599F67C4EF40 | The Device (Doomsday)
+| 14.60 | pakchunk1005 | C60475E046D0F0FBCFE6DE6F9E040E0E | 59CE88CD6BAA9E6EC41EA712C75E22E8AC17C25E3E3E642AD7CD0448C751FB4F | Devourer Of Worlds Event
+
+? - missing info (for now)
 
 ## Credits
 
@@ -99,4 +143,6 @@
 - FunGames (BenBot)
 - Kemo (me)
 - sizzy
+- Lucas7Yoshi
+- VastBlast
 - JunctionNinja
