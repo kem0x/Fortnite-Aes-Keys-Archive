@@ -1294,7 +1294,7 @@ Chunk ID | GUID and Key | Notes
 1012 | `D2FAE1D098B2B4695EB59FAAD504798D`<br/>`6540C8A83BC655CA4256E03787AEEF76455B6702EE0B4675CD7DF724BCA2E711` | Pickaxe_ID_727_LateralFemale_D9XJG, EID_Lateral_7QJD6, CID_A_317_Athena_Commando_F_Lateral_HIKN9, CID_A_316_Athena_Commando_M_Lateral_K8XD9, BID_925_LateralFemale_7RK0Z, BID_924_LateralMale_Y2INS,
 1013 | `D7EDE7B4CE393235BF4EB8779C55D5AE`<br/>`B6F6097C4C4C9B03296D65D27BC6F17C6929975C1C26FE01FD106377CA96719E` | Pickaxe_ID_728_OrbitTealMale_3NIST, Glider_ID_336_OrbitTealMale_VCPM0, EID_OrbitTeal_1XLAO, CID_A_309_Athena_Commando_M_OrbitTeal_9RBJL, BID_928_OrbitTeal_R54N6,
 1014 | `ED61A5415E40BB0A188CDB1DA91F22D2`<br/>`???` |
-1015 | `EF7C5225BD60644B313ABEE69182A302`<br/>`0x2133493C9C94132330F18AC193CF477CAC074C557A8C62491EDE03F149A96B12` | Wrap_430_WinterLights, Wrap_429_HolidaySweater, Trails_ID_137_TurtleneckCrystal, SPID_346_Winterfest_2021, Pickaxe_ID_732_ShovelMale, Pickaxe_ID_731_ScholarFestiveFemale1h, MusicPack_117_WinterFest2021, LSID_393_WinterFest2021, Glider_ID_339_SnowboardGoldMale, Glider_ID_335_Logarithm_40QGL, Emoji_S19_AnimWinterFest2021, EID_EpicYarn, CID_A_310_Athena_Commando_F_ScholarFestive, BID_927_LlamaIce
+1015 | `EF7C5225BD60644B313ABEE69182A302`<br/>`2133493C9C94132330F18AC193CF477CAC074C557A8C62491EDE03F149A96B12` | Wrap_430_WinterLights, Wrap_429_HolidaySweater, Trails_ID_137_TurtleneckCrystal, SPID_346_Winterfest_2021, Pickaxe_ID_732_ShovelMale, Pickaxe_ID_731_ScholarFestiveFemale1h, MusicPack_117_WinterFest2021, LSID_393_WinterFest2021, Glider_ID_339_SnowboardGoldMale, Glider_ID_335_Logarithm_40QGL, Emoji_S19_AnimWinterFest2021, EID_EpicYarn, CID_A_310_Athena_Commando_F_ScholarFestive, BID_927_LlamaIce
 
 ## Credits
 - 0x41414141
